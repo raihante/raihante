@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**raihante/raihante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img alt="Bonfire" src="images/re.gif" />
+</p>
 
 Here are some ideas to get you started:
 
